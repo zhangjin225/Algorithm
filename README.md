@@ -1,2 +1,2 @@
 # Algorithm
-Algorithm exercise using Python
+Algorithm exercises using Python
